@@ -17,7 +17,7 @@
 
 /* Define base controller sizing */
 .controller.custom{
-    background: url(snes.svg);
+    background: url("https://kaizofart.github.io/snes-overlay/snes.svg");
     background-repeat: no-repeat;
     background-position: 0px 0px;
     width: 970px;
